@@ -1,0 +1,14 @@
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\bin\Debug\net8.0\NumberGuesser.exe
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\bin\Debug\net8.0\NumberGuesser.deps.json
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\bin\Debug\net8.0\NumberGuesser.runtimeconfig.json
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\bin\Debug\net8.0\NumberGuesser.dll
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\bin\Debug\net8.0\NumberGuesser.pdb
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfoInputs.cache
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfo.cs
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\NumberGuesser.csproj.CoreCompileInputs.cache
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\NumberGuesser.dll
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\refint\NumberGuesser.dll
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\NumberGuesser.pdb
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\NumberGuesser.genruntimeconfig.cache
+c:\Users\bhava\Learnings\C#_practice\NumberGuesser\obj\Debug\net8.0\ref\NumberGuesser.dll
